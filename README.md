@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tamima Tarin</h1>
-<h3 align="center">A passionate Software Quality Assurance Engineer From Bangladesh</h3>
+<h3 align="center">I'm a Software Quality Assurance Engineer with expertise in manual testing, automation testing, performance testing, and CI/CD pipelines. I love ensuring the quality and reliability of software products. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamimatarin&label=Profile%20views&color=0e75b6&style=flat" alt="tamimatarin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamimatarin" alt="tamimatarin" /></a> </p>
-
+- 🔧 Tools & Technologies: Selenium, TestNG, JMeter, Java, Postman, Newman, 
+- 💡 Interests: Test Automation, Continuous Integration, Performance Testing
 - 📫 How to reach me **tarin.aiub@gmail.com**
-
+- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/tamima-tarin) | [Email](mailto:tarin.aiub@gmail.com)
 - ⚡ Fun fact **All code is guilty until proven innocent**
 
 <h3 align="left">Connect with me:</h3>
