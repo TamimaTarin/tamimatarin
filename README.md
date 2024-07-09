@@ -4,12 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamimatarin&label=Profile%20views&color=0e75b6&style=flat" alt="tamimatarin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamimatarin" alt="tamimatarin" /></a> </p>
-🔧 Tools & Technologies: Selenium, TestNG, JMeter, Java, Postman, Newman, 
-
-💡 Interests: Test Automation, Continuous Integration, Performance Testing,
-
-📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/tamima-tarin) | [Email](mailto:tarin.aiub@gmail.com),
-
+🔧 Tools & Technologies: Selenium, TestNG, JMeter, Java, Postman, Newman
+💡 Interests: Test Automation, Continuous Integration, Performance Testing
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/tamima-tarin) | [Email](mailto:tarin.aiub@gmail.com)
 ⚡ Fun fact **All code is guilty until proven innocent**
 
 <h3 align="left">Connect with me:</h3>
