@@ -4,18 +4,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamimatarin&label=Profile%20views&color=0e75b6&style=flat" alt="tamimatarin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamimatarin" alt="tamimatarin" /></a> </p>
-🔧 Tools & Technologies: Selenium, TestNG, JMeter, Java, Postman, Newman 
+-🔧 Tools & Technologies: Selenium, TestNG, JMeter, Java, Postman, Newman 
 
-💡 Interests: Test Automation, Continuous Integration, Performance Testing 
+-💡 Interests: Test Automation, Continuous Integration, Performance Testing 
 
-📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/tamima-tarin) | [Email](mailto:tarin.aiub@gmail.com)  
+-📫 How to reach me tarin.aiub@gmail.com  
 
-⚡ Fun fact **All code is guilty until proven innocent**
+-⚡ Fun fact **All code is guilty until proven innocent**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tamima-tarin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamima-tarin" height="30" width="40" /></a>
-<a href="https://fb.com/tamima.tarin.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tamima.tarin.7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
