@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamimatarin" alt="tamimatarin" /></a> </p>
 🔧 Tools & Technologies: Selenium, TestNG, JMeter, Java, Postman, Newman, 
 
-💡 Interests: Test Automation, Continuous Integration, Performance Testing
+💡 Interests: Test Automation, Continuous Integration, Performance Testing,
 
-📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/tamima-tarin) | [Email](mailto:tarin.aiub@gmail.com)
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/tamima-tarin) | [Email](mailto:tarin.aiub@gmail.com),
 
 ⚡ Fun fact **All code is guilty until proven innocent**
 
